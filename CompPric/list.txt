@@ -1,0 +1,12 @@
+Bar code: 1234567890
+Name: ChocoBar
+Brand: SuperBar
+Shop Title: Coles
+Qunitity: 1
+Unit: 5) pack
+Regular Price: 3.99
+Special price: 2.49
+Special price starts on: 07/08/2015
+Special price ends on: 13/08/2015
+Record last saved at: Thu Oct 15 22:11:00 2015
+
